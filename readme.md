@@ -6,4 +6,4 @@ The script should do:
  text frame (such a text substitution)
 3. After finishing the work, the program highlights in green those lines that it managed to find and replace in the project, 
 and in red those that it did not find.
-4. Program ignores white signs
+4. Program ignores white signs in text
